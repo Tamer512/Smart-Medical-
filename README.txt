@@ -6,6 +6,7 @@ Files included:
 - styles.css
 - app.js (frontend logic)
 - backend/server.js (Node.js Express backend placeholders)
+- package.json
 
 Deployment steps:
 1. Upload all files to a new GitHub repository.

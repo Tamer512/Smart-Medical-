@@ -1,0 +1,14 @@
+{
+  "name": "smartmedica-pro",
+  "version": "1.0.0",
+  "description": "Professional AI-powered medical platform",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Tamer Nawafleh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
